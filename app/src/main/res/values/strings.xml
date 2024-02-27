@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+    <string name="ura">Аргентина</string>
+    <string name="bra">Бразилия</string>
+    <string name="chi">Чили</string>
+    <string name="col">Колумбия</string>
+    <string name="uru">Уругвай</string>
+    <string name="pho">Шейхеев Иван</string>
+
+</resources>
